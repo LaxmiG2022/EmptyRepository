@@ -12,3 +12,13 @@ public class Star_Pattern1 {
 		}
 	}
 }
+/*
+Output:-
+
+1
+12
+123
+1234
+12345
+
+*/
